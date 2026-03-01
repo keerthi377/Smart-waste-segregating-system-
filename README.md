@@ -105,7 +105,7 @@ Camera captures image<br>
         ↓<br>
 DL classification<br>
         ↓<br>      
-   Flap opens<br>
+   Flap opens
         ↓<br>
 Waste sorted appropriate class<br>
 
