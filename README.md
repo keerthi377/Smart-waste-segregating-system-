@@ -101,9 +101,9 @@ User drops waste<br>
         ↓<br>      					 
 Metal sensor check/Moisture check (yes)-> Flap opens -> Waste Sorted to appropriate class<br>
         ↓(no)<br>
-Camera captures image
+Camera captures image<br>
         ↓<br>
-DL classification 
+DL classification<br>
         ↓<br>      
    Flap opens<br>
         ↓<br>
