@@ -31,7 +31,6 @@ The system uses **two servo motors** for mechanical operation:
 * The **top servo motor** controls a flap mechanism that opens to allow waste entry and closes during classification to hold the object in place.
 * The **base servo motor** rotates the dustbin to align the correct compartment with the flap, ensuring the waste is dropped into the appropriate bin.
 
-This coordinated interaction between sensors, deep learning inference, and servo actuation enables automated and accurate waste segregation.
 ---
 
 ## Hardware Components
@@ -99,8 +98,8 @@ Training parameters: input size 224×224, Adam optimizer, learning rate 0.0001, 
 ## System Workflow
 
 User drops waste<br>
-        ↓		<br>      					 (yes)
-Metal sensor check/Moisture check -> Flap opens -> Waste Sorted to appropriate class<br>
+        ↓		<br>      					 
+Metal sensor check/Moisture check (yes)-> Flap opens -> Waste Sorted to appropriate class<br>
         ↓(no)<br>
 Camera captures image<br>
         ↓<br>
