@@ -109,7 +109,7 @@ DL classification<br>
         ↓<br>
 Waste sorted appropriate class<br>
 
-## ⚙️ Troubleshooting
+## Troubleshooting
 
 After converting MobileNetV2 model to TensorFlow Lite and tested on the Raspberry Pi with real-time images the model was able to classify correctly. However, issues arose when integrating servo motor control using the gpiozero library. Removing pyenv configurations allowed the servo code to run, but caused the ML model execution to fail due to environment conflicts.
 
