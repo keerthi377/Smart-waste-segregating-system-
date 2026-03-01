@@ -98,13 +98,13 @@ Training parameters: input size 224×224, Adam optimizer, learning rate 0.0001, 
 ## System Workflow
 
 User drops waste<br>
-        ↓		<br>      					 
+        ↓<br>      					 
 Metal sensor check/Moisture check (yes)-> Flap opens -> Waste Sorted to appropriate class<br>
         ↓(no)<br>
 Camera captures image<br>
         ↓<br>
 DL classification <br>
-        ↓  <br>      
+        ↓<br>      
    Flap opens<br>
         ↓<br>
 Waste sorted appropriate class<br>
