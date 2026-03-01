@@ -1,5 +1,5 @@
 # Smart-waste-segregating-system-
-Smart dustbin that automatically segregates waste into 5 different types of waste namely metal, wet, glass, plastic and paper
+
 ## Project Overview
 
 AI-Based Smart Waste Segregation System that automatically classifies and sorts waste using sensors and deep learning model.
