@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-AI-Based Smart Waste Segregation System that automatically classifies and sorts waste using sensors and deep learning model.
+Smart Waste Segregation System that automatically classifies using Mobilenetv2 model and sorts waste into appropriate bins.
 
 The system segregates waste into 5 different categories namely metal, wet, glass, plastic & paper and directs it into appropriate bins using an automated servo-based mechanism.
 
